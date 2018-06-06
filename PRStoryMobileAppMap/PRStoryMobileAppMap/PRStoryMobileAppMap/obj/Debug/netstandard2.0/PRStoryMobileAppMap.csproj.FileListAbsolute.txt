@@ -1,0 +1,16 @@
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\bin\Debug\netstandard2.0\PRStoryMobileAppMap.deps.json
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\bin\Debug\netstandard2.0\PRStoryMobileAppMap.dll
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\bin\Debug\netstandard2.0\PRStoryMobileAppMap.pdb
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\obj\Debug\netstandard2.0\PRStoryMobileAppMap.csprojResolveAssemblyReference.cache
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\obj\Debug\netstandard2.0\PRStoryMobileAppMap.csproj.CoreCompileInputs.cache
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\obj\Debug\netstandard2.0\PRStoryMobileAppMap.App.xaml.g.cs
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\obj\Debug\netstandard2.0\PRStoryMobileAppMap.Views.AboutPage.xaml.g.cs
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\obj\Debug\netstandard2.0\PRStoryMobileAppMap.Views.BenchmarkingPage.xaml.g.cs
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\obj\Debug\netstandard2.0\PRStoryMobileAppMap.Views.DocumentViewerPage.xaml.g.cs
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\obj\Debug\netstandard2.0\PRStoryMobileAppMap.Views.LoginPage.xaml.g.cs
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\obj\Debug\netstandard2.0\PRStoryMobileAppMap.Views.MasterDetail.xaml.g.cs
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\obj\Debug\netstandard2.0\PRStoryMobileAppMap.Views.MPUSelectionPage.xaml.g.cs
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\obj\Debug\netstandard2.0\PRStoryMobileAppMap.AssemblyInfoInputs.cache
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\obj\Debug\netstandard2.0\PRStoryMobileAppMap.AssemblyInfo.cs
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\obj\Debug\netstandard2.0\PRStoryMobileAppMap.dll
+c:\users\zdunek.pz\source\repos\PRStoryMobileAppMap\PRStoryMobileAppMap\PRStoryMobileAppMap\obj\Debug\netstandard2.0\PRStoryMobileAppMap.pdb
